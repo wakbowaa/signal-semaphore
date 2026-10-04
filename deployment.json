@@ -1,0 +1,10 @@
+{
+  "account": "wakbowaa",
+  "network": "StudioNet",
+  "contractAddress": "0x5CD4aBb1E030bdf6bcD06f2cb0690867E2A260dA",
+  "deploymentTransaction": "0x093af6f4329e659577188a1173027cb67bdee0e30eaa104fb54d37bfc95c40f4",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "lifecycleTransactions": {"openGame":"0x8aaa3142092d224acfbb2ecac4fa38ebc3c8190fe47fb4ea12033bd1151be8bb","transmit":"0x65cecf353fecf3f83ad5bdb04ec0bbd81218a3468119e293a752101af8a9a8f4"},
+  "publicRecord": "LIVE-04"
+}
