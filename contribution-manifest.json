@@ -1,14 +1,1 @@
-{
-  "account": "abolkaram",
-  "category": "Projects",
-  "title": "Failure Prism",
-  "network": "StudioNet",
-  "contractAddress": "0x4cb64a6e81BD7E6bddf5437ddF62B2fD1508ce83",
-  "deploymentTransaction": "0x0cde074ac166f267e4bc3174da72b71ad8c87d27f5beb62e23d6d96d8f9bb3a6",
-  "lifecycleTransaction": "0xfe0082c310afc56cc78abe7037b877a9595325c7d0c5f98e1e17684ca9d65c00",
-  "sourceSha256": "98d57dcd7d72699eae30d8d0bb040f7fd9cef71d9fa47e868e449305bb0bab46",
-  "repository": "https://github.com/abolkaram/failure-prism",
-  "publicSite": "https://failure-prism.pages.dev/",
-  "verifiedOn": "2026-10-04",
-  "walletDisclosure": "All demonstration wallets, plans, and scenarios are operator-controlled."
-}
+{"account":"wakbowaa","category":"Projects","title":"Signal Semaphore","network":"StudioNet","contractAddress":"0x5CD4aBb1E030bdf6bcD06f2cb0690867E2A260dA","deploymentTransaction":"0x093af6f4329e659577188a1173027cb67bdee0e30eaa104fb54d37bfc95c40f4","lifecycleTransaction":"0x65cecf353fecf3f83ad5bdb04ec0bbd81218a3468119e293a752101af8a9a8f4","repository":"https://github.com/wakbowaa/signal-semaphore","publicSite":"https://signal-semaphore.pages.dev/","verifiedOn":"2026-10-04","walletDisclosure":"The demonstration wallets and game configuration are operator-controlled."}
